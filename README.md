@@ -39,7 +39,7 @@
 
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Statistics:
 ![](https://github-readme-stats.vercel.app/api?username=sanskriti-30&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sanskriti-30&theme=gotham&hide_border=false)
 
